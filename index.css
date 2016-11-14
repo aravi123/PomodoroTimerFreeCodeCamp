@@ -1,3 +1,26 @@
-.timer{
+#timer{
 	text-align: center;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding-top: 50px;	
+}
+#values{
+	text-align: center;
+}
+body{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.input{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: black;
+}
+button{
+	width: 10%;
+	height: 10%;
 }
